@@ -11,7 +11,6 @@ See [rocm-docker](https://github.com/RadeonOpenCompute/ROCm-docker) for how to r
 
 ## Installed packages
 
-- torch-1.11.0a0+git503a092-cp38-cp38-linux_x86_64.whl
-- torchvision-0.12.0a0+2662797-cp38-cp38-linux_x86_64.whl
-- torchaudio-0.11.0+820b383-cp38-cp38-linux_x86_64.whl
-- tensorflow_rocm-2.8.0-cp38-cp38-linux_x86_64.whl
+- torch-1.13.0a0+git49444c3-cp310-cp310-linux_x86_64.whl (v1.13.1)
+- torchvision-0.14.1a0+5e8e2f1-cp310-cp310-linux_x86_64.whl (v0.14.1)
+- torchaudio-0.13.1+b90d798-cp310-cp310-linux_x86_64.whl (v0.13.1)
