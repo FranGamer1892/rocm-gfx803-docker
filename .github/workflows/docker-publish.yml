@@ -27,6 +27,6 @@ jobs:
         with:
           target: rocm-gfx803
           push: true
-          tags: francisco1892/rocm-gfx803:5.4
+          tags: francisco1892/rocm-gfx803:latest
           cache-from: type=gha,scope=base
           cache-to: type=gha,scope=base,mode=max
