@@ -4,6 +4,8 @@
 
 ## Usage
 
+```docker pull francisco1892/rocm-gfx803:5.4``` to get the docker image.
+
 See [rocm-docker](https://github.com/RadeonOpenCompute/ROCm-docker) for how to run the docker image.
 
 ## Installed packages
