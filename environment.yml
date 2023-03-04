@@ -8,3 +8,4 @@ dependencies:
     - https://github.com/FranGamer1892/rocm-gfx803-docker/releases/download/pre-env/torch-1.13.0a0+git49444c3-cp310-cp310-linux_x86_64.whl
     - https://github.com/FranGamer1892/rocm-gfx803-docker/releases/download/pre-env/torchvision-0.14.1a0+5e8e2f1-cp310-cp310-linux_x86_64.whl
     - https://github.com/FranGamer1892/rocm-gfx803-docker/releases/download/pre-env/torchaudio-0.13.1+b90d798-cp310-cp310-linux_x86_64.whl
+    - https://github.com/FranGamer1892/rocm-gfx803-docker/releases/download/pre-env/pytorch_lightning-2.0.0rc1-py3-none-any.whl
